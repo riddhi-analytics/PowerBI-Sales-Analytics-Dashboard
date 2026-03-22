@@ -84,7 +84,7 @@ The report enables users to explore key business insights across different dimen
 
 ## 📸 Dashboard Preview
 
-*(Add screenshots here after uploading images)*
+*(You can see the screenshots of dashboard which are already uploaded)*
 
 ---
 
